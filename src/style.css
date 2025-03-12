@@ -1,1 +1,8 @@
 @import "tailwindcss";
+
+@theme {
+  --font-sans: "Hanken Grotesk", sans-serif;
+  /* --font-sans: "Pretendard", sans-serif; */
+
+  --ipad-air: url(./apple/ipad_air.jpeg);
+}
