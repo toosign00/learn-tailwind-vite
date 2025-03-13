@@ -9,6 +9,9 @@ export default defineConfig({
         index: "index.html", // 기본 index.html
         button: "src/components/button.html",
         login: "src/pages/login.html",
+        card: 'src/components/apple-card.html',
+        apple: 'src/pages/apple.html',
+        
       },
     },
   },
